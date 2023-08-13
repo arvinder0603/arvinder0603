@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  alt="MasterTag" width="100%"  height="50%" />
 <h1 align="center">Hi 👋, I'm Arvinder Singh</h1>
-<h3 align="center">A passionate ML ENGINEER from India</h3>
+<h3 align="center">A passionate ML Enthisuast from India</h3>
 <img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" ></img>
 
 - 🔭 I’m currently working on **NLP based clustering , Portfolio**
